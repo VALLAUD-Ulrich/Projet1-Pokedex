@@ -1,0 +1,22 @@
+{
+  "name": "projet1-pokedex",
+  "version": "1.0.0",
+  "description": "- CREATE A LIST OF POKEMON TO DISPLAY ONE OR MORE GENERATIONS OF POKÉMONS - CHOICE OF GENERATION FOR LOOKING ONE OR MORE GENERATIONS SPECIFY",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VALLAUD-Ulrich/Projet1-Pokedex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VALLAUD-Ulrich/Projet1-Pokedex/issues"
+  },
+  "homepage": "https://github.com/VALLAUD-Ulrich/Projet1-Pokedex#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
